@@ -1,0 +1,14 @@
+package pages;
+
+import org.openqa.selenium.By;
+
+import core.BasePage;
+
+public class SliderPage extends BasePage {
+
+	private By SliderPage = By.xpath("/html/body/section/div/div/div/input");
+	
+	public void slider() {
+		slider();
+	}
+}

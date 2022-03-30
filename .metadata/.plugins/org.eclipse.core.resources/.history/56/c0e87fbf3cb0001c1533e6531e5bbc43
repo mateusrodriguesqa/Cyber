@@ -1,0 +1,11 @@
+package pages;
+
+import core.BasePage;
+
+public class DatepickerPage extends BasePage {
+	private By nomeUsuario = By.xpath("//input[@class='input100'][@name='username']");
+	
+	
+	
+	public void ins
+}
